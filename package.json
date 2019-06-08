@@ -1,7 +1,7 @@
 {
     "name": "front-end-develop-standard.git",
     "version": "1.0.0",
-    "description": "前端开发规范手",
+    "description": "前端开发规范",
     "main": "index.js",
     "repository": "https://github.com/niceboybao/front-end-develop-standard.git",
     "author": "baldwin <niceboybao@gmail.com>",
